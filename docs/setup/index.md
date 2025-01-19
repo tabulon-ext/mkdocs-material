@@ -13,10 +13,10 @@ setting up site search, and more.
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-earth-americas: __[Language]__ – Choose out of the 50+ supported languages or add a new one
+- :fontawesome-solid-earth-americas: __[Language]__ – Choose out of the 60+ supported languages or add a new one
 - :material-page-layout-sidebar-left: __[Navigation]__ – Create a clear, concise, and comprehensive navigation structure
 - :material-page-layout-header: __[Header]__ – Customize the behavior of the header, add an announcement bar
-- :material-page-layout-footer: __[Footer]__ – Add links to your social media profiles or websites in the footer 
+- :material-page-layout-footer: __[Footer]__ – Add links to your social media profiles or websites in the footer
 - :material-tab-search: __[Search]__ – Set up and configure search, running entirely in the user's browser
 - :material-tag-plus-outline: __[Tags]__ – Categorize your pages with tags and group related pages
 
@@ -38,7 +38,7 @@ configuration or alter the appearance.
 
 <div class="grid cards" markdown>
 
-- :material-brush-variant: __[Colors]__ Change colors with an existing color palette or customize with CSS
+- :material-brush-variant: __[Colors]__ – Change colors with an existing color palette or customize with CSS
 - :material-format-font: __[Fonts]__ – Choose among 1,000 Google Fonts or load self-hosted fonts
 - :material-google-downasaur: __[Logo & Icons]__ – Change the logo, use any of the 8,000+ icons, or add new ones
 - :material-cards-variant: __[Social Cards]__ – Automatically create social media previews when sharing links
@@ -66,7 +66,7 @@ versioned documentation that matches your project's versioning methodology.
 
   [Blog]: setting-up-a-blog.md
   [Comment System]: adding-a-comment-system.md
-  [Versioning]: setting-up-versioning.md  
+  [Versioning]: setting-up-versioning.md
   [Repository]: adding-a-git-repository.md
 
 ## Optimization
